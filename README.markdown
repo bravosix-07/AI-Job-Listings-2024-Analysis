@@ -35,7 +35,7 @@ AI-Job-Listings-Analysis/
 
 4. **Run Analysis**:
    ```bash
-   python src/analysis.py
+   python analysis.py
    ```
 
 ## Requirements
