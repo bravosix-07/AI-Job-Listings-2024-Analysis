@@ -61,10 +61,10 @@ Visualizations are saved in `visualizations/` and displayed interactively.
 ## Screenshots
 Below are key visualizations from the Python analysis and the PowerBI dashboard:
 
-![Salary Distribution by Job Title](screenshots/salary_by_job_title.png)  
+![Salary Distribution by Job Title](screenshots/salary_distribution.png)  
 *Boxplot showing salary distributions for the top 10 AI job titles.*
 
-![Remote Work Ratio Distribution](screenshots/remote_ratio_distribution.png)  
+![Remote Work Ratio Distribution](screenshots/remote_job_ratios.png)  
 *Pie chart illustrating the prevalence of remote work options in AI jobs.*
 
 ![Top 10 demanded skills](screenshots/top_10_skills.png)  
